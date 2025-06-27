@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-even-odd/1-even-odd.iml" filepath="$PROJECT_DIR$/1-even-odd/1-even-odd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-even-odd-2/2-even-odd-2.iml" filepath="$PROJECT_DIR$/2-even-odd-2/2-even-odd-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-adhogami-sonkha/3-adhogami-sonkha.iml" filepath="$PROJECT_DIR$/3-adhogami-sonkha/3-adhogami-sonkha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-Vajok/4-Vajok.iml" filepath="$PROJECT_DIR$/4-Vajok/4-Vajok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-Baksho-01/5-Baksho-01.iml" filepath="$PROJECT_DIR$/5-Baksho-01/5-Baksho-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/50 problems subeen using java.iml" filepath="$PROJECT_DIR$/.idea/50 problems subeen using java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-jogfol-nirnoi/6-jogfol-nirnoi.iml" filepath="$PROJECT_DIR$/6-jogfol-nirnoi/6-jogfol-nirnoi.iml" />
+    </modules>
+  </component>
+</project>
